@@ -34,6 +34,14 @@ in the web search you have to spent less money in advertise
   ## Website 
   
    * https://ozqr20.github.io/Horison/
+
+![Banner and Background](https://user-images.githubusercontent.com/53874145/173729068-af32faff-3969-4068-b8c3-08be062aaba6.png)
+![Body and sections ](https://user-images.githubusercontent.com/53874145/173729073-f5ab9bfd-3e77-485a-9c21-24f9b4be1647.png)
+![Images and Sections](https://user-images.githubusercontent.com/53874145/173729081-f77982c0-3eed-451f-a8b4-56c73f067d6d.png)
+![Footer](https://user-images.githubusercontent.com/53874145/173729088-b8f51a74-2786-4804-aa0d-9969f88ae6b7.png)
+
+
+
   
 ## Contribution 
 Made with ❤️️ Ozqr20
